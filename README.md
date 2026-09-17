@@ -73,6 +73,11 @@ docker compose up -d
 (Para confirmar que subiu com sucesso, você pode rodar docker ps).
 
 ```
+# Roda o Projeto:**
+
+   ```bash
+   ./gradlew bootRun
+```
  
 # Configure a conexão (application.yaml):
 
