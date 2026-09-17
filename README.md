@@ -55,9 +55,7 @@ O projeto segue o padrão arquitetural em camadas para garantir a separação de
 # 1. **Clone o repositório:**
 
    ```bash
-
    git clone https://github.com/manuelalacerda/Projeto-diamante-campusgigs.git
-
 ```
  
 # Abra o projeto:
